@@ -29,3 +29,9 @@ monkeys = 8
 total_animals = lions + elephants + monkeys
 print("Total animals:", total_animals)
 
+# Example 3: Magic shop
+magic_stars = 10
+magic_stars = magic_stars + 5
+print("Your stars:", magic_stars)
+
+
