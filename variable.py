@@ -23,3 +23,9 @@ remaining_fuel = rocket_fuel - fuel_used
 
 print("Remaining fuel:", remaining_fuel)
 
+lions = 4
+elephants = 3
+monkeys = 8
+total_animals = lions + elephants + monkeys
+print("Total animals:", total_animals)
+
