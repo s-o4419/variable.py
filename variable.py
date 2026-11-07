@@ -34,4 +34,14 @@ magic_stars = 10
 magic_stars = magic_stars + 5
 print("Your stars:", magic_stars)
 
+# Example 4: Robot energy
+
+robot_energy = 100
+robot_energy = robot_energy - 20
+robot_energy = robot_energy - 15
+
+print("Robot energy:", robot_energy)
+
+
+
 
