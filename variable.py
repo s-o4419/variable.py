@@ -42,6 +42,14 @@ robot_energy = robot_energy - 15
 
 print("Robot energy:", robot_energy)
 
+# Example 5: Pizza party
+
+pizza_slices = 24
+children = 6
+slices_each = pizza_slices // children
+print("Each child gets:", slices_each)
+
+
 
 
 
